@@ -1,0 +1,1 @@
+The idea of this application is to enable users to record health habits and see the visual information. The concept was selected due to its social value and technical possibility to be executed with the help of modern full-stack web development tools. The architecture that is designed is scalable, clean, and modular.
